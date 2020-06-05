@@ -1,5 +1,3 @@
-# proj_pcap
-
 Idea: classify traffic on anomaly/normal. If anomlay -> classify further
 approach: generalization by machine learning
 
@@ -39,9 +37,13 @@ Folders (all code, with comments):
 
 
 Basic requirements:
-	for WM ubuntu/debian python3.8
+	for VU WM ubuntu/debian python3.8
 	for others: ptyhon3.6 or higher (should be mine works fine)
 	
 	pip install scapy tqdm pandas numpy sklearn (can be deleted manualy)
 	
 	Additionally: wireshark editcap util
+
+
+
+
